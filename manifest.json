@@ -1,0 +1,9 @@
+{
+  "id": "plugin-obsidian-time-color",
+  "name": "Time color",
+  "version": "0.0.1",
+  "description": "Text management for Obsidian",
+  "author": "Mx_world",
+  "authorUrl": "https://github.com/MaxKUlish1",
+  "isDesktopOnly": false
+}
