@@ -1,4 +1,4 @@
-## Plugin_obsidian 
+## Obsidian plugin
 # Time color
 
 ## Описание
